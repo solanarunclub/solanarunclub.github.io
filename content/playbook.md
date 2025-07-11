@@ -1,6 +1,6 @@
 +++
 date = '2025-07-10T17:07:27+01:00'
-draft = true
+draft = false
 title = 'Solana Run Club Playbook'
 +++
 
