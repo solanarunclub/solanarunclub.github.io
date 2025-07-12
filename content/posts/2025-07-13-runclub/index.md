@@ -1,6 +1,6 @@
 +++
 date = '2025-07-12T16:25:37+01:00'
-draft = true
+draft = false
 title = 'Solana Run Club: 13th July 2025'
 +++
 
@@ -53,4 +53,3 @@ If the link doesn't work, tap on the community tab, tap Groups and search for "S
 6. You will see "Depositing" badge which will shortly change to "Soon" and then "Active"
 
 You if you need any help, reach out to [Moonwalk support](https://t.me/MoonwalkSupportBot) or ask in our group chat.
-
