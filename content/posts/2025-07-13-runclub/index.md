@@ -6,7 +6,7 @@ title = 'Solana Run Club: 13th July 2025'
 
 Hi everyone 👋
 
-Join us our [next Solana Run Club](https://lu.ma/a2qjuep3) event on **Sunday, 13th July 2025** at **10:00 AM** in **Hyde Park, London**! 🏃‍♂️🏃‍♀️
+Join our [next Solana Run Club](https://lu.ma/a2qjuep3) event on **Sunday, 13th July 2025** at **10:00 AM** in **Hyde Park, London**! 🏃‍♂️🏃‍♀️
 
 We'll meet next to the drinking fountain near the **Marble Arch** entrance:
 
@@ -30,9 +30,9 @@ Our friends at [Moonwalk](https://moonwalk.fit) are sponsoring a challenge runni
 
 All you need to do is walk 7,000 steps each day to win a share of the $500 prize pool! 🏆
 
-The challenges is open to all of you for FREE.
+The challenge is open to all of you for FREE.
 
-To participate, simply download the Moonwalk app and join the challenge:
+To participate, simply download the Moonwalk app and join the game:
 
 1. Download the app for [iOS](https://apps.apple.com/us/app/moonwalk-fitness/id6692608601) or [Android](https://play.google.com/store/apps/details?id=fit.moonwalk.mobile.app)
 
