@@ -53,3 +53,5 @@ If the link doesn't work, tap on the community tab, tap Groups and search for "S
 6. You will see "Depositing" badge which will shortly change to "Soon" and then "Active"
 
 You if you need any help, reach out to [Moonwalk support](https://t.me/MoonwalkSupportBot) or ask in our group chat.
+
+> Moonwalk helps you stay accountable to your fitness goals: pledge a small amount of SOL, USDC or BONK and get rewarded for staying active. Hitting your daily step goals protects your deposit, while missing them forfeits a portion to a prize pool shared among the most consistent players at the end of the game.
