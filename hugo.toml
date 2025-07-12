@@ -2,3 +2,7 @@ baseURL = 'https://solanarunclub.com'
 languageCode = 'en-us'
 title = 'Solana Run Club'
 theme = ['PaperMod']
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
