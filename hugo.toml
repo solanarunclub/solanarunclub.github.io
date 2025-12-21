@@ -3,6 +3,43 @@ languageCode = 'en-us'
 title = 'Solana Run Club'
 theme = ['PaperMod']
 
+[params]
+  defaultTheme = "auto"
+  
+  [params.linktree]
+    title = "Solana Run Club"
+    subtitle = "Run with the Solana community 🏃‍♂️"
+    
+    [[params.linktree.sections]]
+      title = "Community"
+      [[params.linktree.sections.links]]
+        name = "Join Telegram group"
+        url = "https://t.me/+Waa0r643MbFiNDIy"
+        icon = "telegram"
+      [[params.linktree.sections.links]]
+        name = "Join Strava group"
+        url = "https://www.strava.com/clubs/solanarunclub"
+        icon = "strava"
+      [[params.linktree.sections.links]]
+        name = "Follow on X"
+        url = "http://x.com/intent/user?screen_name=solanarunclub"
+        icon = "x"
+      [[params.linktree.sections.links]]
+        name = "Follow on Instagram"
+        url = "https://www.instagram.com/solanarunclub"
+        icon = "instagram"
+
+    [[params.linktree.sections]]
+      title = "Join Events"
+      [[params.linktree.sections.links]]
+        name = "Upcoming runs"
+        url = "https://lu.ma/solanarunclub"
+        icon = "calendar"
+      [[params.linktree.sections.links]]
+        name = "London route"
+        url = "/route/"
+        icon = "map-pin"
+
 [[module.mounts]]
 source = 'static'
 target = 'static'

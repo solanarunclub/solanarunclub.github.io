@@ -1,0 +1,120 @@
+/* Linktree Styles */
+.linktree {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.linktree-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.linktree-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border: 3px solid var(--primary);
+}
+
+.linktree-header h1 {
+    font-size: 1.8rem;
+    margin: 0 0 0.5rem 0;
+    color: var(--primary);
+}
+
+.linktree-subtitle {
+    color: var(--secondary);
+    font-size: 1rem;
+    margin: 0;
+}
+
+.linktree-section {
+    margin-bottom: 2rem;
+}
+
+.linktree-section-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--secondary);
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.linktree-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.linktree-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 1.25rem;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    text-decoration: none;
+    color: var(--primary);
+    transition: all 0.2s ease;
+}
+
+.linktree-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-color: var(--primary);
+}
+
+.dark .linktree-link:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.linktree-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.linktree-icon svg {
+    width: 20px;
+    height: 20px;
+}
+
+.linktree-link-text {
+    flex: 1;
+    font-weight: 500;
+}
+
+.external-link-icon {
+    opacity: 0.5;
+    flex-shrink: 0;
+    transition: opacity 0.2s ease;
+}
+
+.linktree-link:hover .external-link-icon {
+    opacity: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 480px) {
+    .linktree {
+        padding: 1.5rem 1rem;
+    }
+    
+    .linktree-header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .linktree-link {
+        padding: 0.875rem 1rem;
+    }
+}
