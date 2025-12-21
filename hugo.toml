@@ -40,6 +40,18 @@ theme = ['PaperMod']
         url = "/route/"
         icon = "map-pin"
 
+    [[params.linktree.sections]]
+      title = "Shop"
+      [[params.linktree.sections.links]]
+        name = "Buy our merch"
+        url = "https://www.tshirtstudio.com/marketplace/solana-run-club"
+        icon = "shirt"
+      [[params.linktree.sections.links]]
+        name = "Shop on Amazon"
+        url = "https://amzn.to/3L2Um0G"
+        icon = "shopping-bag"
+        description = "As an Amazon Associate we earn from qualifying purchases (you don't pay extra). We put earnings back into merch, lunches and events for members."
+
 [[module.mounts]]
 source = 'static'
 target = 'static'

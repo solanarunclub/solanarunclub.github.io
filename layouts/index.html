@@ -36,6 +36,9 @@
                 </svg>
                 {{- end }}
             </a>
+            {{- with .description }}
+            <p class="linktree-link-description">{{ . }}</p>
+            {{- end }}
             {{- end }}
         </div>
     </div>

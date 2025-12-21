@@ -100,6 +100,16 @@
     transition: opacity 0.2s ease;
 }
 
+.linktree-link-description {
+    font-size: 0.8rem;
+    color: var(--secondary);
+    margin: 0.25rem 0 0 0;
+    padding: 0 0.5rem;
+    line-height: 1.4;
+    opacity: 0.8;
+}
+}
+
 .linktree-link:hover .external-link-icon {
     opacity: 1;
 }
