@@ -16,7 +16,7 @@ We'll meet next to the drinking fountain near the **Marble Arch** entrance:
 
 📍 [Meeting point on W3W: ///noisy.demand.keeps](https://w3w.co/noisy.demand.keeps)
 
-💬 Join our group chat: [https://t.me/+Waa0r643MbFiNDIy](https://t.me/+Waa0r643MbFiNDIy)
+💬 Join our group chat: [https://t.me/+cVlPZclBiFdlMzdi](https://t.me/+cVlPZclBiFdlMzdi)
 
 Please arrive on time and bring your own water bottle! 💧 You'll have a chance to refill it at the drinking fountain.
 
