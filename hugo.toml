@@ -14,7 +14,7 @@ theme = ['PaperMod']
       title = "Community"
       [[params.linktree.sections.links]]
         name = "Join Telegram group"
-        url = "https://t.me/+cVlPZclBiFdlMzdi"
+        url = "https://t.me/solanarunclub"
         icon = "telegram"
       [[params.linktree.sections.links]]
         name = "Join Strava group"
